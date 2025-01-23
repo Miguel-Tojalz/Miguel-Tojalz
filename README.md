@@ -10,7 +10,7 @@ One of my proudest accomplishments is earning a **Python certification** through
 ### Why I Love What I Do 💡  
 For me, coding is more than just writing programs—it's about discovery, growth, and creativity. I’m constantly learning, exploring new tools, and pushing boundaries to see what I can create next. Every new challenge is an opportunity to grow and make a difference in the world through technology.  
 
-### Achivments and Goals 🚀  
+### Achievements and Goals 🚀  
 Now, im learning python and discovery new things about this language, doing projects and exercises to improve my career. I wish in the future learn C and Java to get a international business in importants companies and make the best solution for optmize business. By the way, I am always searching for new things to make me a better professional. 
 
 
